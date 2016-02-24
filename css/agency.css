@@ -644,21 +644,33 @@ section h3.section-subheading {
 }
 
 .team-member h4 {
+    color: #fff;
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
 }
 
 .team-member p {
+    color: #adadad;
     margin-top: 0;
 }
 
+
+
 section#team{
-    background-color: #888888;
+    background-color: #090f24;
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
+
+section#team .section-heading{
+    color: #fff;
+}
+section#team .section-subheading{
+    color: #adadad;
+}
+
 
 aside.clients img {
     margin: 50px auto;
@@ -762,7 +774,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #265de8;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
