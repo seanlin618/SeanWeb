@@ -633,6 +633,11 @@ section h3.section-subheading {
     }
 }
 
+.mapPhoto img{
+    position: relative;
+    left: 100px;
+    border: 3px solid #0799ec;
+}
 .team-member {
     margin-bottom: 50px;
     text-align: center;
@@ -792,6 +797,26 @@ ul.social-buttons li a:active {
 .btn:active:focus {
     outline: 0;
 }
+
+/*.photo-modal .modal-content {
+    padding: 100px 0;
+    min-height: 100%;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.photo-modal .close-modal {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+}*/
 
 .portfolio-modal .modal-content {
     padding: 100px 0;
