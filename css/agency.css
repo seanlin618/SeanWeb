@@ -633,11 +633,15 @@ section h3.section-subheading {
     }
 }
 
+
+
 .mapPhoto img{
     position: relative;
-    left: 100px;
+    left: 110px;
+    top:  60px;
     border: 3px solid #0799ec;
 }
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
